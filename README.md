@@ -28,3 +28,4 @@ def circulate():
 ## Output:
 
 ## Result:
+Thus,n variables were circulated using function concept
