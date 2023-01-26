@@ -23,7 +23,7 @@ def circulate():
     n=int(input())
     l=a[n:]+a[:n]
     print("After circulating the values are:",l)
-    ```
+```
 
 ## Output:
 
