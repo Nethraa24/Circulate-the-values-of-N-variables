@@ -26,6 +26,7 @@ def circulate():
 ```
 
 ## Output:
+![image](https://user-images.githubusercontent.com/121215786/214862472-09ce1f21-f2de-428f-885a-8a8b81759843.png)
 
 ## Result:
 Thus,n variables were circulated using function concept
